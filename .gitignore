@@ -1,0 +1,10 @@
+cjose/Debug/
+.vs/cjose/v14/.suo
+3rdParty/jansson-2.7/.gitignore
+3rdParty/jansson-2.7/.travis.yml
+3rdParty/jansson-2.7/.vs/jansson/v14/.suo
+3rdParty/openssl/bin/openssl.exe
+Debug/
+cjose.VC.VC.opendb
+cjose.VC.db
+ipch/

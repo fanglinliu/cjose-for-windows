@@ -1,0 +1,3033 @@
+Start testing: Apr 20 08:03 China Standard Time
+----------------------------------------------------------
+1/202 Testing: test_array
+1/202 Test: test_array
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/test_array.exe"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"test_array" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"test_array" end time: Apr 20 08:03 China Standard Time
+"test_array" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/202 Testing: test_copy
+2/202 Test: test_copy
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/test_copy.exe"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"test_copy" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"test_copy" end time: Apr 20 08:03 China Standard Time
+"test_copy" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/202 Testing: test_dump
+3/202 Test: test_dump
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/test_dump.exe"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"test_dump" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"test_dump" end time: Apr 20 08:03 China Standard Time
+"test_dump" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/202 Testing: test_dump_callback
+4/202 Test: test_dump_callback
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/test_dump_callback.exe"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"test_dump_callback" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"test_dump_callback" end time: Apr 20 08:03 China Standard Time
+"test_dump_callback" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/202 Testing: test_equal
+5/202 Test: test_equal
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/test_equal.exe"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"test_equal" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"test_equal" end time: Apr 20 08:03 China Standard Time
+"test_equal" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/202 Testing: test_load
+6/202 Test: test_load
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/test_load.exe"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"test_load" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"test_load" end time: Apr 20 08:03 China Standard Time
+"test_load" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/202 Testing: test_loadb
+7/202 Test: test_loadb
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/test_loadb.exe"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"test_loadb" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"test_loadb" end time: Apr 20 08:03 China Standard Time
+"test_loadb" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/202 Testing: test_number
+8/202 Test: test_number
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/test_number.exe"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"test_number" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_number" end time: Apr 20 08:03 China Standard Time
+"test_number" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/202 Testing: test_object
+9/202 Test: test_object
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/test_object.exe"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"test_object" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"test_object" end time: Apr 20 08:03 China Standard Time
+"test_object" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/202 Testing: test_pack
+10/202 Test: test_pack
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/test_pack.exe"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"test_pack" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"test_pack" end time: Apr 20 08:03 China Standard Time
+"test_pack" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/202 Testing: test_simple
+11/202 Test: test_simple
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/test_simple.exe"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"test_simple" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_simple" end time: Apr 20 08:03 China Standard Time
+"test_simple" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/202 Testing: test_unpack
+12/202 Test: test_unpack
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/test_unpack.exe"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"test_unpack" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"test_unpack" end time: Apr 20 08:03 China Standard Time
+"test_unpack" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/202 Testing: encoding-flags__array
+13/202 Test: encoding-flags__array
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/encoding-flags/array"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"encoding-flags__array" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"encoding-flags__array" end time: Apr 20 08:03 China Standard Time
+"encoding-flags__array" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/202 Testing: encoding-flags__compact-array
+14/202 Test: encoding-flags__compact-array
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/encoding-flags/compact-array"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"encoding-flags__compact-array" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"encoding-flags__compact-array" end time: Apr 20 08:03 China Standard Time
+"encoding-flags__compact-array" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/202 Testing: encoding-flags__compact-object
+15/202 Test: encoding-flags__compact-object
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/encoding-flags/compact-object"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"encoding-flags__compact-object" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"encoding-flags__compact-object" end time: Apr 20 08:03 China Standard Time
+"encoding-flags__compact-object" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/202 Testing: encoding-flags__ensure-ascii
+16/202 Test: encoding-flags__ensure-ascii
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/encoding-flags/ensure-ascii"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"encoding-flags__ensure-ascii" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"encoding-flags__ensure-ascii" end time: Apr 20 08:03 China Standard Time
+"encoding-flags__ensure-ascii" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/202 Testing: encoding-flags__indent-array
+17/202 Test: encoding-flags__indent-array
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/encoding-flags/indent-array"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"encoding-flags__indent-array" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"encoding-flags__indent-array" end time: Apr 20 08:03 China Standard Time
+"encoding-flags__indent-array" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/202 Testing: encoding-flags__indent-compact-array
+18/202 Test: encoding-flags__indent-compact-array
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/encoding-flags/indent-compact-array"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"encoding-flags__indent-compact-array" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"encoding-flags__indent-compact-array" end time: Apr 20 08:03 China Standard Time
+"encoding-flags__indent-compact-array" time elapsed: 00:00:00
+----------------------------------------------------------
+
+19/202 Testing: encoding-flags__indent-compact-object
+19/202 Test: encoding-flags__indent-compact-object
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/encoding-flags/indent-compact-object"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"encoding-flags__indent-compact-object" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"encoding-flags__indent-compact-object" end time: Apr 20 08:03 China Standard Time
+"encoding-flags__indent-compact-object" time elapsed: 00:00:00
+----------------------------------------------------------
+
+20/202 Testing: encoding-flags__indent-object
+20/202 Test: encoding-flags__indent-object
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/encoding-flags/indent-object"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"encoding-flags__indent-object" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"encoding-flags__indent-object" end time: Apr 20 08:03 China Standard Time
+"encoding-flags__indent-object" time elapsed: 00:00:00
+----------------------------------------------------------
+
+21/202 Testing: encoding-flags__object
+21/202 Test: encoding-flags__object
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/encoding-flags/object"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"encoding-flags__object" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"encoding-flags__object" end time: Apr 20 08:03 China Standard Time
+"encoding-flags__object" time elapsed: 00:00:00
+----------------------------------------------------------
+
+22/202 Testing: encoding-flags__preserve-order
+22/202 Test: encoding-flags__preserve-order
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/encoding-flags/preserve-order"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"encoding-flags__preserve-order" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"encoding-flags__preserve-order" end time: Apr 20 08:03 China Standard Time
+"encoding-flags__preserve-order" time elapsed: 00:00:00
+----------------------------------------------------------
+
+23/202 Testing: encoding-flags__real-precision
+23/202 Test: encoding-flags__real-precision
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/encoding-flags/real-precision"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"encoding-flags__real-precision" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"encoding-flags__real-precision" end time: Apr 20 08:03 China Standard Time
+"encoding-flags__real-precision" time elapsed: 00:00:00
+----------------------------------------------------------
+
+24/202 Testing: encoding-flags__sort-keys
+24/202 Test: encoding-flags__sort-keys
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/encoding-flags/sort-keys"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"encoding-flags__sort-keys" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"encoding-flags__sort-keys" end time: Apr 20 08:03 China Standard Time
+"encoding-flags__sort-keys" time elapsed: 00:00:00
+----------------------------------------------------------
+
+25/202 Testing: valid__complex-array
+25/202 Test: valid__complex-array
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/complex-array"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__complex-array" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"valid__complex-array" end time: Apr 20 08:03 China Standard Time
+"valid__complex-array" time elapsed: 00:00:00
+----------------------------------------------------------
+
+26/202 Testing: valid__complex-array__strip
+26/202 Test: valid__complex-array__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/complex-array"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__complex-array__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"valid__complex-array__strip" end time: Apr 20 08:03 China Standard Time
+"valid__complex-array__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+27/202 Testing: valid__empty-array
+27/202 Test: valid__empty-array
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/empty-array"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__empty-array" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"valid__empty-array" end time: Apr 20 08:03 China Standard Time
+"valid__empty-array" time elapsed: 00:00:00
+----------------------------------------------------------
+
+28/202 Testing: valid__empty-array__strip
+28/202 Test: valid__empty-array__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/empty-array"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__empty-array__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"valid__empty-array__strip" end time: Apr 20 08:03 China Standard Time
+"valid__empty-array__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+29/202 Testing: valid__empty-object
+29/202 Test: valid__empty-object
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/empty-object"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__empty-object" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"valid__empty-object" end time: Apr 20 08:03 China Standard Time
+"valid__empty-object" time elapsed: 00:00:00
+----------------------------------------------------------
+
+30/202 Testing: valid__empty-object__strip
+30/202 Test: valid__empty-object__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/empty-object"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__empty-object__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"valid__empty-object__strip" end time: Apr 20 08:03 China Standard Time
+"valid__empty-object__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+31/202 Testing: valid__empty-object-in-array
+31/202 Test: valid__empty-object-in-array
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/empty-object-in-array"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__empty-object-in-array" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"valid__empty-object-in-array" end time: Apr 20 08:03 China Standard Time
+"valid__empty-object-in-array" time elapsed: 00:00:00
+----------------------------------------------------------
+
+32/202 Testing: valid__empty-object-in-array__strip
+32/202 Test: valid__empty-object-in-array__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/empty-object-in-array"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__empty-object-in-array__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"valid__empty-object-in-array__strip" end time: Apr 20 08:03 China Standard Time
+"valid__empty-object-in-array__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+33/202 Testing: valid__empty-string
+33/202 Test: valid__empty-string
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/empty-string"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__empty-string" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"valid__empty-string" end time: Apr 20 08:03 China Standard Time
+"valid__empty-string" time elapsed: 00:00:00
+----------------------------------------------------------
+
+34/202 Testing: valid__empty-string__strip
+34/202 Test: valid__empty-string__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/empty-string"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__empty-string__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"valid__empty-string__strip" end time: Apr 20 08:03 China Standard Time
+"valid__empty-string__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+35/202 Testing: valid__escaped-utf-control-char
+35/202 Test: valid__escaped-utf-control-char
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/escaped-utf-control-char"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__escaped-utf-control-char" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"valid__escaped-utf-control-char" end time: Apr 20 08:03 China Standard Time
+"valid__escaped-utf-control-char" time elapsed: 00:00:00
+----------------------------------------------------------
+
+36/202 Testing: valid__escaped-utf-control-char__strip
+36/202 Test: valid__escaped-utf-control-char__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/escaped-utf-control-char"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__escaped-utf-control-char__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"valid__escaped-utf-control-char__strip" end time: Apr 20 08:03 China Standard Time
+"valid__escaped-utf-control-char__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+37/202 Testing: valid__false
+37/202 Test: valid__false
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/false"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__false" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"valid__false" end time: Apr 20 08:03 China Standard Time
+"valid__false" time elapsed: 00:00:00
+----------------------------------------------------------
+
+38/202 Testing: valid__false__strip
+38/202 Test: valid__false__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/false"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__false__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"valid__false__strip" end time: Apr 20 08:03 China Standard Time
+"valid__false__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+39/202 Testing: valid__negative-int
+39/202 Test: valid__negative-int
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/negative-int"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__negative-int" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"valid__negative-int" end time: Apr 20 08:03 China Standard Time
+"valid__negative-int" time elapsed: 00:00:00
+----------------------------------------------------------
+
+40/202 Testing: valid__negative-int__strip
+40/202 Test: valid__negative-int__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/negative-int"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__negative-int__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"valid__negative-int__strip" end time: Apr 20 08:03 China Standard Time
+"valid__negative-int__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+41/202 Testing: valid__negative-one
+41/202 Test: valid__negative-one
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/negative-one"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__negative-one" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"valid__negative-one" end time: Apr 20 08:03 China Standard Time
+"valid__negative-one" time elapsed: 00:00:00
+----------------------------------------------------------
+
+42/202 Testing: valid__negative-one__strip
+42/202 Test: valid__negative-one__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/negative-one"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__negative-one__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"valid__negative-one__strip" end time: Apr 20 08:03 China Standard Time
+"valid__negative-one__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+43/202 Testing: valid__negative-zero
+43/202 Test: valid__negative-zero
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/negative-zero"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__negative-zero" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"valid__negative-zero" end time: Apr 20 08:03 China Standard Time
+"valid__negative-zero" time elapsed: 00:00:00
+----------------------------------------------------------
+
+44/202 Testing: valid__negative-zero__strip
+44/202 Test: valid__negative-zero__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/negative-zero"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__negative-zero__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"valid__negative-zero__strip" end time: Apr 20 08:03 China Standard Time
+"valid__negative-zero__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+45/202 Testing: valid__null
+45/202 Test: valid__null
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/null"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__null" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"valid__null" end time: Apr 20 08:03 China Standard Time
+"valid__null" time elapsed: 00:00:00
+----------------------------------------------------------
+
+46/202 Testing: valid__null__strip
+46/202 Test: valid__null__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/null"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__null__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"valid__null__strip" end time: Apr 20 08:03 China Standard Time
+"valid__null__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+47/202 Testing: valid__one-byte-utf-8
+47/202 Test: valid__one-byte-utf-8
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/one-byte-utf-8"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__one-byte-utf-8" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"valid__one-byte-utf-8" end time: Apr 20 08:03 China Standard Time
+"valid__one-byte-utf-8" time elapsed: 00:00:00
+----------------------------------------------------------
+
+48/202 Testing: valid__one-byte-utf-8__strip
+48/202 Test: valid__one-byte-utf-8__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/one-byte-utf-8"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__one-byte-utf-8__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"valid__one-byte-utf-8__strip" end time: Apr 20 08:03 China Standard Time
+"valid__one-byte-utf-8__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+49/202 Testing: valid__real-capital-e
+49/202 Test: valid__real-capital-e
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/real-capital-e"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__real-capital-e" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"valid__real-capital-e" end time: Apr 20 08:03 China Standard Time
+"valid__real-capital-e" time elapsed: 00:00:00
+----------------------------------------------------------
+
+50/202 Testing: valid__real-capital-e__strip
+50/202 Test: valid__real-capital-e__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/real-capital-e"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__real-capital-e__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"valid__real-capital-e__strip" end time: Apr 20 08:03 China Standard Time
+"valid__real-capital-e__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+51/202 Testing: valid__real-capital-e-negative-exponent
+51/202 Test: valid__real-capital-e-negative-exponent
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/real-capital-e-negative-exponent"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__real-capital-e-negative-exponent" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"valid__real-capital-e-negative-exponent" end time: Apr 20 08:03 China Standard Time
+"valid__real-capital-e-negative-exponent" time elapsed: 00:00:00
+----------------------------------------------------------
+
+52/202 Testing: valid__real-capital-e-negative-exponent__strip
+52/202 Test: valid__real-capital-e-negative-exponent__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/real-capital-e-negative-exponent"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__real-capital-e-negative-exponent__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"valid__real-capital-e-negative-exponent__strip" end time: Apr 20 08:03 China Standard Time
+"valid__real-capital-e-negative-exponent__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+53/202 Testing: valid__real-capital-e-positive-exponent
+53/202 Test: valid__real-capital-e-positive-exponent
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/real-capital-e-positive-exponent"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__real-capital-e-positive-exponent" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"valid__real-capital-e-positive-exponent" end time: Apr 20 08:03 China Standard Time
+"valid__real-capital-e-positive-exponent" time elapsed: 00:00:00
+----------------------------------------------------------
+
+54/202 Testing: valid__real-capital-e-positive-exponent__strip
+54/202 Test: valid__real-capital-e-positive-exponent__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/real-capital-e-positive-exponent"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__real-capital-e-positive-exponent__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"valid__real-capital-e-positive-exponent__strip" end time: Apr 20 08:03 China Standard Time
+"valid__real-capital-e-positive-exponent__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+55/202 Testing: valid__real-exponent
+55/202 Test: valid__real-exponent
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/real-exponent"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__real-exponent" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"valid__real-exponent" end time: Apr 20 08:03 China Standard Time
+"valid__real-exponent" time elapsed: 00:00:00
+----------------------------------------------------------
+
+56/202 Testing: valid__real-exponent__strip
+56/202 Test: valid__real-exponent__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/real-exponent"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__real-exponent__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"valid__real-exponent__strip" end time: Apr 20 08:03 China Standard Time
+"valid__real-exponent__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+57/202 Testing: valid__real-fraction-exponent
+57/202 Test: valid__real-fraction-exponent
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/real-fraction-exponent"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__real-fraction-exponent" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"valid__real-fraction-exponent" end time: Apr 20 08:03 China Standard Time
+"valid__real-fraction-exponent" time elapsed: 00:00:00
+----------------------------------------------------------
+
+58/202 Testing: valid__real-fraction-exponent__strip
+58/202 Test: valid__real-fraction-exponent__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/real-fraction-exponent"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__real-fraction-exponent__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"valid__real-fraction-exponent__strip" end time: Apr 20 08:03 China Standard Time
+"valid__real-fraction-exponent__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+59/202 Testing: valid__real-negative-exponent
+59/202 Test: valid__real-negative-exponent
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/real-negative-exponent"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__real-negative-exponent" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"valid__real-negative-exponent" end time: Apr 20 08:03 China Standard Time
+"valid__real-negative-exponent" time elapsed: 00:00:00
+----------------------------------------------------------
+
+60/202 Testing: valid__real-negative-exponent__strip
+60/202 Test: valid__real-negative-exponent__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/real-negative-exponent"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__real-negative-exponent__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"valid__real-negative-exponent__strip" end time: Apr 20 08:03 China Standard Time
+"valid__real-negative-exponent__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+61/202 Testing: valid__real-positive-exponent
+61/202 Test: valid__real-positive-exponent
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/real-positive-exponent"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__real-positive-exponent" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"valid__real-positive-exponent" end time: Apr 20 08:03 China Standard Time
+"valid__real-positive-exponent" time elapsed: 00:00:00
+----------------------------------------------------------
+
+62/202 Testing: valid__real-positive-exponent__strip
+62/202 Test: valid__real-positive-exponent__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/real-positive-exponent"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__real-positive-exponent__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"valid__real-positive-exponent__strip" end time: Apr 20 08:03 China Standard Time
+"valid__real-positive-exponent__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+63/202 Testing: valid__real-subnormal-number
+63/202 Test: valid__real-subnormal-number
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/real-subnormal-number"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__real-subnormal-number" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"valid__real-subnormal-number" end time: Apr 20 08:03 China Standard Time
+"valid__real-subnormal-number" time elapsed: 00:00:00
+----------------------------------------------------------
+
+64/202 Testing: valid__real-subnormal-number__strip
+64/202 Test: valid__real-subnormal-number__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/real-subnormal-number"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__real-subnormal-number__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"valid__real-subnormal-number__strip" end time: Apr 20 08:03 China Standard Time
+"valid__real-subnormal-number__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+65/202 Testing: valid__real-underflow
+65/202 Test: valid__real-underflow
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/real-underflow"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__real-underflow" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"valid__real-underflow" end time: Apr 20 08:03 China Standard Time
+"valid__real-underflow" time elapsed: 00:00:00
+----------------------------------------------------------
+
+66/202 Testing: valid__real-underflow__strip
+66/202 Test: valid__real-underflow__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/real-underflow"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__real-underflow__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"valid__real-underflow__strip" end time: Apr 20 08:03 China Standard Time
+"valid__real-underflow__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+67/202 Testing: valid__short-string
+67/202 Test: valid__short-string
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/short-string"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__short-string" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"valid__short-string" end time: Apr 20 08:03 China Standard Time
+"valid__short-string" time elapsed: 00:00:00
+----------------------------------------------------------
+
+68/202 Testing: valid__short-string__strip
+68/202 Test: valid__short-string__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/short-string"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__short-string__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"valid__short-string__strip" end time: Apr 20 08:03 China Standard Time
+"valid__short-string__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+69/202 Testing: valid__simple-ascii-string
+69/202 Test: valid__simple-ascii-string
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/simple-ascii-string"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__simple-ascii-string" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"valid__simple-ascii-string" end time: Apr 20 08:03 China Standard Time
+"valid__simple-ascii-string" time elapsed: 00:00:00
+----------------------------------------------------------
+
+70/202 Testing: valid__simple-ascii-string__strip
+70/202 Test: valid__simple-ascii-string__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/simple-ascii-string"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__simple-ascii-string__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"valid__simple-ascii-string__strip" end time: Apr 20 08:03 China Standard Time
+"valid__simple-ascii-string__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+71/202 Testing: valid__simple-int-0
+71/202 Test: valid__simple-int-0
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/simple-int-0"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__simple-int-0" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"valid__simple-int-0" end time: Apr 20 08:03 China Standard Time
+"valid__simple-int-0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+72/202 Testing: valid__simple-int-0__strip
+72/202 Test: valid__simple-int-0__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/simple-int-0"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__simple-int-0__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"valid__simple-int-0__strip" end time: Apr 20 08:03 China Standard Time
+"valid__simple-int-0__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+73/202 Testing: valid__simple-int-1
+73/202 Test: valid__simple-int-1
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/simple-int-1"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__simple-int-1" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"valid__simple-int-1" end time: Apr 20 08:03 China Standard Time
+"valid__simple-int-1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+74/202 Testing: valid__simple-int-1__strip
+74/202 Test: valid__simple-int-1__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/simple-int-1"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__simple-int-1__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"valid__simple-int-1__strip" end time: Apr 20 08:03 China Standard Time
+"valid__simple-int-1__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+75/202 Testing: valid__simple-int-123
+75/202 Test: valid__simple-int-123
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/simple-int-123"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__simple-int-123" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"valid__simple-int-123" end time: Apr 20 08:03 China Standard Time
+"valid__simple-int-123" time elapsed: 00:00:00
+----------------------------------------------------------
+
+76/202 Testing: valid__simple-int-123__strip
+76/202 Test: valid__simple-int-123__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/simple-int-123"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__simple-int-123__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"valid__simple-int-123__strip" end time: Apr 20 08:03 China Standard Time
+"valid__simple-int-123__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+77/202 Testing: valid__simple-object
+77/202 Test: valid__simple-object
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/simple-object"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__simple-object" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"valid__simple-object" end time: Apr 20 08:03 China Standard Time
+"valid__simple-object" time elapsed: 00:00:00
+----------------------------------------------------------
+
+78/202 Testing: valid__simple-object__strip
+78/202 Test: valid__simple-object__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/simple-object"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__simple-object__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"valid__simple-object__strip" end time: Apr 20 08:03 China Standard Time
+"valid__simple-object__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+79/202 Testing: valid__simple-real
+79/202 Test: valid__simple-real
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/simple-real"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__simple-real" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"valid__simple-real" end time: Apr 20 08:03 China Standard Time
+"valid__simple-real" time elapsed: 00:00:00
+----------------------------------------------------------
+
+80/202 Testing: valid__simple-real__strip
+80/202 Test: valid__simple-real__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/simple-real"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__simple-real__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"valid__simple-real__strip" end time: Apr 20 08:03 China Standard Time
+"valid__simple-real__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+81/202 Testing: valid__string-escapes
+81/202 Test: valid__string-escapes
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/string-escapes"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__string-escapes" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"valid__string-escapes" end time: Apr 20 08:03 China Standard Time
+"valid__string-escapes" time elapsed: 00:00:00
+----------------------------------------------------------
+
+82/202 Testing: valid__string-escapes__strip
+82/202 Test: valid__string-escapes__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/string-escapes"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__string-escapes__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"valid__string-escapes__strip" end time: Apr 20 08:03 China Standard Time
+"valid__string-escapes__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+83/202 Testing: valid__three-byte-utf-8
+83/202 Test: valid__three-byte-utf-8
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/three-byte-utf-8"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__three-byte-utf-8" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"valid__three-byte-utf-8" end time: Apr 20 08:03 China Standard Time
+"valid__three-byte-utf-8" time elapsed: 00:00:00
+----------------------------------------------------------
+
+84/202 Testing: valid__three-byte-utf-8__strip
+84/202 Test: valid__three-byte-utf-8__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/three-byte-utf-8"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__three-byte-utf-8__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"valid__three-byte-utf-8__strip" end time: Apr 20 08:03 China Standard Time
+"valid__three-byte-utf-8__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+85/202 Testing: valid__true
+85/202 Test: valid__true
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/true"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__true" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"valid__true" end time: Apr 20 08:03 China Standard Time
+"valid__true" time elapsed: 00:00:00
+----------------------------------------------------------
+
+86/202 Testing: valid__true__strip
+86/202 Test: valid__true__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/true"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__true__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"valid__true__strip" end time: Apr 20 08:03 China Standard Time
+"valid__true__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+87/202 Testing: valid__two-byte-utf-8
+87/202 Test: valid__two-byte-utf-8
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/two-byte-utf-8"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__two-byte-utf-8" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"valid__two-byte-utf-8" end time: Apr 20 08:03 China Standard Time
+"valid__two-byte-utf-8" time elapsed: 00:00:00
+----------------------------------------------------------
+
+88/202 Testing: valid__two-byte-utf-8__strip
+88/202 Test: valid__two-byte-utf-8__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/two-byte-utf-8"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__two-byte-utf-8__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"valid__two-byte-utf-8__strip" end time: Apr 20 08:03 China Standard Time
+"valid__two-byte-utf-8__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+89/202 Testing: valid__utf-8-string
+89/202 Test: valid__utf-8-string
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/utf-8-string"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__utf-8-string" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"valid__utf-8-string" end time: Apr 20 08:03 China Standard Time
+"valid__utf-8-string" time elapsed: 00:00:00
+----------------------------------------------------------
+
+90/202 Testing: valid__utf-8-string__strip
+90/202 Test: valid__utf-8-string__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/utf-8-string"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__utf-8-string__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"valid__utf-8-string__strip" end time: Apr 20 08:03 China Standard Time
+"valid__utf-8-string__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+91/202 Testing: valid__utf-surrogate-four-byte-encoding
+91/202 Test: valid__utf-surrogate-four-byte-encoding
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/utf-surrogate-four-byte-encoding"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__utf-surrogate-four-byte-encoding" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"valid__utf-surrogate-four-byte-encoding" end time: Apr 20 08:03 China Standard Time
+"valid__utf-surrogate-four-byte-encoding" time elapsed: 00:00:00
+----------------------------------------------------------
+
+92/202 Testing: valid__utf-surrogate-four-byte-encoding__strip
+92/202 Test: valid__utf-surrogate-four-byte-encoding__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/valid/utf-surrogate-four-byte-encoding"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"valid__utf-surrogate-four-byte-encoding__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"valid__utf-surrogate-four-byte-encoding__strip" end time: Apr 20 08:03 China Standard Time
+"valid__utf-surrogate-four-byte-encoding__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+93/202 Testing: invalid__apostrophe
+93/202 Test: invalid__apostrophe
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/apostrophe"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__apostrophe" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__apostrophe" end time: Apr 20 08:03 China Standard Time
+"invalid__apostrophe" time elapsed: 00:00:00
+----------------------------------------------------------
+
+94/202 Testing: invalid__apostrophe__strip
+94/202 Test: invalid__apostrophe__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/apostrophe"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__apostrophe__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__apostrophe__strip" end time: Apr 20 08:03 China Standard Time
+"invalid__apostrophe__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+95/202 Testing: invalid__ascii-unicode-identifier
+95/202 Test: invalid__ascii-unicode-identifier
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/ascii-unicode-identifier"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__ascii-unicode-identifier" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__ascii-unicode-identifier" end time: Apr 20 08:03 China Standard Time
+"invalid__ascii-unicode-identifier" time elapsed: 00:00:00
+----------------------------------------------------------
+
+96/202 Testing: invalid__ascii-unicode-identifier__strip
+96/202 Test: invalid__ascii-unicode-identifier__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/ascii-unicode-identifier"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__ascii-unicode-identifier__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__ascii-unicode-identifier__strip" end time: Apr 20 08:03 China Standard Time
+"invalid__ascii-unicode-identifier__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+97/202 Testing: invalid__brace-comma
+97/202 Test: invalid__brace-comma
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/brace-comma"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__brace-comma" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__brace-comma" end time: Apr 20 08:03 China Standard Time
+"invalid__brace-comma" time elapsed: 00:00:00
+----------------------------------------------------------
+
+98/202 Testing: invalid__brace-comma__strip
+98/202 Test: invalid__brace-comma__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/brace-comma"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__brace-comma__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__brace-comma__strip" end time: Apr 20 08:03 China Standard Time
+"invalid__brace-comma__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+99/202 Testing: invalid__bracket-comma
+99/202 Test: invalid__bracket-comma
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/bracket-comma"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__bracket-comma" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__bracket-comma" end time: Apr 20 08:03 China Standard Time
+"invalid__bracket-comma" time elapsed: 00:00:00
+----------------------------------------------------------
+
+100/202 Testing: invalid__bracket-comma__strip
+100/202 Test: invalid__bracket-comma__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/bracket-comma"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__bracket-comma__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__bracket-comma__strip" end time: Apr 20 08:03 China Standard Time
+"invalid__bracket-comma__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+101/202 Testing: invalid__bracket-one-comma
+101/202 Test: invalid__bracket-one-comma
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/bracket-one-comma"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__bracket-one-comma" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__bracket-one-comma" end time: Apr 20 08:03 China Standard Time
+"invalid__bracket-one-comma" time elapsed: 00:00:00
+----------------------------------------------------------
+
+102/202 Testing: invalid__bracket-one-comma__strip
+102/202 Test: invalid__bracket-one-comma__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/bracket-one-comma"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__bracket-one-comma__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__bracket-one-comma__strip" end time: Apr 20 08:03 China Standard Time
+"invalid__bracket-one-comma__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+103/202 Testing: invalid__empty
+103/202 Test: invalid__empty
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/empty"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__empty" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__empty" end time: Apr 20 08:03 China Standard Time
+"invalid__empty" time elapsed: 00:00:00
+----------------------------------------------------------
+
+104/202 Testing: invalid__empty__strip
+104/202 Test: invalid__empty__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/empty"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__empty__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__empty__strip" end time: Apr 20 08:03 China Standard Time
+"invalid__empty__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+105/202 Testing: invalid__extra-comma-in-array
+105/202 Test: invalid__extra-comma-in-array
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/extra-comma-in-array"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__extra-comma-in-array" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__extra-comma-in-array" end time: Apr 20 08:03 China Standard Time
+"invalid__extra-comma-in-array" time elapsed: 00:00:00
+----------------------------------------------------------
+
+106/202 Testing: invalid__extra-comma-in-array__strip
+106/202 Test: invalid__extra-comma-in-array__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/extra-comma-in-array"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__extra-comma-in-array__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__extra-comma-in-array__strip" end time: Apr 20 08:03 China Standard Time
+"invalid__extra-comma-in-array__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+107/202 Testing: invalid__extra-comma-in-multiline-array
+107/202 Test: invalid__extra-comma-in-multiline-array
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/extra-comma-in-multiline-array"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__extra-comma-in-multiline-array" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__extra-comma-in-multiline-array" end time: Apr 20 08:03 China Standard Time
+"invalid__extra-comma-in-multiline-array" time elapsed: 00:00:00
+----------------------------------------------------------
+
+108/202 Testing: invalid__extra-comma-in-multiline-array__strip
+108/202 Test: invalid__extra-comma-in-multiline-array__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/extra-comma-in-multiline-array"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__extra-comma-in-multiline-array__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__extra-comma-in-multiline-array__strip" end time: Apr 20 08:03 China Standard Time
+"invalid__extra-comma-in-multiline-array__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+109/202 Testing: invalid__garbage-after-newline
+109/202 Test: invalid__garbage-after-newline
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/garbage-after-newline"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__garbage-after-newline" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__garbage-after-newline" end time: Apr 20 08:03 China Standard Time
+"invalid__garbage-after-newline" time elapsed: 00:00:00
+----------------------------------------------------------
+
+110/202 Testing: invalid__garbage-after-newline__strip
+110/202 Test: invalid__garbage-after-newline__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/garbage-after-newline"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__garbage-after-newline__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__garbage-after-newline__strip" end time: Apr 20 08:03 China Standard Time
+"invalid__garbage-after-newline__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+111/202 Testing: invalid__garbage-at-the-end
+111/202 Test: invalid__garbage-at-the-end
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/garbage-at-the-end"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__garbage-at-the-end" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__garbage-at-the-end" end time: Apr 20 08:03 China Standard Time
+"invalid__garbage-at-the-end" time elapsed: 00:00:00
+----------------------------------------------------------
+
+112/202 Testing: invalid__garbage-at-the-end__strip
+112/202 Test: invalid__garbage-at-the-end__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/garbage-at-the-end"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__garbage-at-the-end__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__garbage-at-the-end__strip" end time: Apr 20 08:03 China Standard Time
+"invalid__garbage-at-the-end__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+113/202 Testing: invalid__integer-starting-with-zero
+113/202 Test: invalid__integer-starting-with-zero
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/integer-starting-with-zero"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__integer-starting-with-zero" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__integer-starting-with-zero" end time: Apr 20 08:03 China Standard Time
+"invalid__integer-starting-with-zero" time elapsed: 00:00:00
+----------------------------------------------------------
+
+114/202 Testing: invalid__integer-starting-with-zero__strip
+114/202 Test: invalid__integer-starting-with-zero__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/integer-starting-with-zero"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__integer-starting-with-zero__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__integer-starting-with-zero__strip" end time: Apr 20 08:03 China Standard Time
+"invalid__integer-starting-with-zero__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+115/202 Testing: invalid__invalid-escape
+115/202 Test: invalid__invalid-escape
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/invalid-escape"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__invalid-escape" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__invalid-escape" end time: Apr 20 08:03 China Standard Time
+"invalid__invalid-escape" time elapsed: 00:00:00
+----------------------------------------------------------
+
+116/202 Testing: invalid__invalid-escape__strip
+116/202 Test: invalid__invalid-escape__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/invalid-escape"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__invalid-escape__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__invalid-escape__strip" end time: Apr 20 08:03 China Standard Time
+"invalid__invalid-escape__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+117/202 Testing: invalid__invalid-identifier
+117/202 Test: invalid__invalid-identifier
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/invalid-identifier"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__invalid-identifier" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__invalid-identifier" end time: Apr 20 08:03 China Standard Time
+"invalid__invalid-identifier" time elapsed: 00:00:00
+----------------------------------------------------------
+
+118/202 Testing: invalid__invalid-identifier__strip
+118/202 Test: invalid__invalid-identifier__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/invalid-identifier"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__invalid-identifier__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__invalid-identifier__strip" end time: Apr 20 08:03 China Standard Time
+"invalid__invalid-identifier__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+119/202 Testing: invalid__invalid-negative-integer
+119/202 Test: invalid__invalid-negative-integer
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/invalid-negative-integer"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__invalid-negative-integer" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__invalid-negative-integer" end time: Apr 20 08:03 China Standard Time
+"invalid__invalid-negative-integer" time elapsed: 00:00:00
+----------------------------------------------------------
+
+120/202 Testing: invalid__invalid-negative-integer__strip
+120/202 Test: invalid__invalid-negative-integer__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/invalid-negative-integer"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__invalid-negative-integer__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__invalid-negative-integer__strip" end time: Apr 20 08:03 China Standard Time
+"invalid__invalid-negative-integer__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+121/202 Testing: invalid__invalid-negative-real
+121/202 Test: invalid__invalid-negative-real
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/invalid-negative-real"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__invalid-negative-real" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__invalid-negative-real" end time: Apr 20 08:03 China Standard Time
+"invalid__invalid-negative-real" time elapsed: 00:00:00
+----------------------------------------------------------
+
+122/202 Testing: invalid__invalid-negative-real__strip
+122/202 Test: invalid__invalid-negative-real__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/invalid-negative-real"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__invalid-negative-real__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__invalid-negative-real__strip" end time: Apr 20 08:03 China Standard Time
+"invalid__invalid-negative-real__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+123/202 Testing: invalid__invalid-second-surrogate
+123/202 Test: invalid__invalid-second-surrogate
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/invalid-second-surrogate"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__invalid-second-surrogate" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__invalid-second-surrogate" end time: Apr 20 08:03 China Standard Time
+"invalid__invalid-second-surrogate" time elapsed: 00:00:00
+----------------------------------------------------------
+
+124/202 Testing: invalid__invalid-second-surrogate__strip
+124/202 Test: invalid__invalid-second-surrogate__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/invalid-second-surrogate"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__invalid-second-surrogate__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__invalid-second-surrogate__strip" end time: Apr 20 08:03 China Standard Time
+"invalid__invalid-second-surrogate__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+125/202 Testing: invalid__lone-open-brace
+125/202 Test: invalid__lone-open-brace
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/lone-open-brace"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__lone-open-brace" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__lone-open-brace" end time: Apr 20 08:03 China Standard Time
+"invalid__lone-open-brace" time elapsed: 00:00:00
+----------------------------------------------------------
+
+126/202 Testing: invalid__lone-open-brace__strip
+126/202 Test: invalid__lone-open-brace__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/lone-open-brace"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__lone-open-brace__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__lone-open-brace__strip" end time: Apr 20 08:03 China Standard Time
+"invalid__lone-open-brace__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+127/202 Testing: invalid__lone-open-bracket
+127/202 Test: invalid__lone-open-bracket
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/lone-open-bracket"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__lone-open-bracket" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__lone-open-bracket" end time: Apr 20 08:03 China Standard Time
+"invalid__lone-open-bracket" time elapsed: 00:00:00
+----------------------------------------------------------
+
+128/202 Testing: invalid__lone-open-bracket__strip
+128/202 Test: invalid__lone-open-bracket__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/lone-open-bracket"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__lone-open-bracket__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__lone-open-bracket__strip" end time: Apr 20 08:03 China Standard Time
+"invalid__lone-open-bracket__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+129/202 Testing: invalid__lone-second-surrogate
+129/202 Test: invalid__lone-second-surrogate
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/lone-second-surrogate"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__lone-second-surrogate" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__lone-second-surrogate" end time: Apr 20 08:03 China Standard Time
+"invalid__lone-second-surrogate" time elapsed: 00:00:00
+----------------------------------------------------------
+
+130/202 Testing: invalid__lone-second-surrogate__strip
+130/202 Test: invalid__lone-second-surrogate__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/lone-second-surrogate"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__lone-second-surrogate__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__lone-second-surrogate__strip" end time: Apr 20 08:03 China Standard Time
+"invalid__lone-second-surrogate__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+131/202 Testing: invalid__minus-sign-without-number
+131/202 Test: invalid__minus-sign-without-number
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/minus-sign-without-number"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__minus-sign-without-number" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__minus-sign-without-number" end time: Apr 20 08:03 China Standard Time
+"invalid__minus-sign-without-number" time elapsed: 00:00:00
+----------------------------------------------------------
+
+132/202 Testing: invalid__minus-sign-without-number__strip
+132/202 Test: invalid__minus-sign-without-number__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/minus-sign-without-number"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__minus-sign-without-number__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__minus-sign-without-number__strip" end time: Apr 20 08:03 China Standard Time
+"invalid__minus-sign-without-number__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+133/202 Testing: invalid__negative-integer-starting-with-zero
+133/202 Test: invalid__negative-integer-starting-with-zero
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/negative-integer-starting-with-zero"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__negative-integer-starting-with-zero" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__negative-integer-starting-with-zero" end time: Apr 20 08:03 China Standard Time
+"invalid__negative-integer-starting-with-zero" time elapsed: 00:00:00
+----------------------------------------------------------
+
+134/202 Testing: invalid__negative-integer-starting-with-zero__strip
+134/202 Test: invalid__negative-integer-starting-with-zero__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/negative-integer-starting-with-zero"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__negative-integer-starting-with-zero__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__negative-integer-starting-with-zero__strip" end time: Apr 20 08:03 China Standard Time
+"invalid__negative-integer-starting-with-zero__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+135/202 Testing: invalid__null
+135/202 Test: invalid__null
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/null"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__null" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__null" end time: Apr 20 08:03 China Standard Time
+"invalid__null" time elapsed: 00:00:00
+----------------------------------------------------------
+
+136/202 Testing: invalid__null__strip
+136/202 Test: invalid__null__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/null"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__null__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__null__strip" end time: Apr 20 08:03 China Standard Time
+"invalid__null__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+137/202 Testing: invalid__null-byte-in-object-key
+137/202 Test: invalid__null-byte-in-object-key
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/null-byte-in-object-key"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__null-byte-in-object-key" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__null-byte-in-object-key" end time: Apr 20 08:03 China Standard Time
+"invalid__null-byte-in-object-key" time elapsed: 00:00:00
+----------------------------------------------------------
+
+138/202 Testing: invalid__null-byte-in-object-key__strip
+138/202 Test: invalid__null-byte-in-object-key__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/null-byte-in-object-key"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__null-byte-in-object-key__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__null-byte-in-object-key__strip" end time: Apr 20 08:03 China Standard Time
+"invalid__null-byte-in-object-key__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+139/202 Testing: invalid__null-byte-in-string
+139/202 Test: invalid__null-byte-in-string
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/null-byte-in-string"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__null-byte-in-string" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__null-byte-in-string" end time: Apr 20 08:03 China Standard Time
+"invalid__null-byte-in-string" time elapsed: 00:00:00
+----------------------------------------------------------
+
+140/202 Testing: invalid__null-byte-outside-string
+140/202 Test: invalid__null-byte-outside-string
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/null-byte-outside-string"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__null-byte-outside-string" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__null-byte-outside-string" end time: Apr 20 08:03 China Standard Time
+"invalid__null-byte-outside-string" time elapsed: 00:00:00
+----------------------------------------------------------
+
+141/202 Testing: invalid__object-apostrophes
+141/202 Test: invalid__object-apostrophes
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/object-apostrophes"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__object-apostrophes" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__object-apostrophes" end time: Apr 20 08:03 China Standard Time
+"invalid__object-apostrophes" time elapsed: 00:00:00
+----------------------------------------------------------
+
+142/202 Testing: invalid__object-apostrophes__strip
+142/202 Test: invalid__object-apostrophes__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/object-apostrophes"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__object-apostrophes__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__object-apostrophes__strip" end time: Apr 20 08:03 China Standard Time
+"invalid__object-apostrophes__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+143/202 Testing: invalid__object-garbage-at-end
+143/202 Test: invalid__object-garbage-at-end
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/object-garbage-at-end"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__object-garbage-at-end" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__object-garbage-at-end" end time: Apr 20 08:03 China Standard Time
+"invalid__object-garbage-at-end" time elapsed: 00:00:00
+----------------------------------------------------------
+
+144/202 Testing: invalid__object-garbage-at-end__strip
+144/202 Test: invalid__object-garbage-at-end__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/object-garbage-at-end"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__object-garbage-at-end__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__object-garbage-at-end__strip" end time: Apr 20 08:03 China Standard Time
+"invalid__object-garbage-at-end__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+145/202 Testing: invalid__object-in-unterminated-array
+145/202 Test: invalid__object-in-unterminated-array
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/object-in-unterminated-array"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__object-in-unterminated-array" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__object-in-unterminated-array" end time: Apr 20 08:03 China Standard Time
+"invalid__object-in-unterminated-array" time elapsed: 00:00:00
+----------------------------------------------------------
+
+146/202 Testing: invalid__object-in-unterminated-array__strip
+146/202 Test: invalid__object-in-unterminated-array__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/object-in-unterminated-array"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__object-in-unterminated-array__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__object-in-unterminated-array__strip" end time: Apr 20 08:03 China Standard Time
+"invalid__object-in-unterminated-array__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+147/202 Testing: invalid__object-no-colon
+147/202 Test: invalid__object-no-colon
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/object-no-colon"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__object-no-colon" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__object-no-colon" end time: Apr 20 08:03 China Standard Time
+"invalid__object-no-colon" time elapsed: 00:00:00
+----------------------------------------------------------
+
+148/202 Testing: invalid__object-no-colon__strip
+148/202 Test: invalid__object-no-colon__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/object-no-colon"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__object-no-colon__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__object-no-colon__strip" end time: Apr 20 08:03 China Standard Time
+"invalid__object-no-colon__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+149/202 Testing: invalid__object-no-value
+149/202 Test: invalid__object-no-value
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/object-no-value"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__object-no-value" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__object-no-value" end time: Apr 20 08:03 China Standard Time
+"invalid__object-no-value" time elapsed: 00:00:00
+----------------------------------------------------------
+
+150/202 Testing: invalid__object-no-value__strip
+150/202 Test: invalid__object-no-value__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/object-no-value"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__object-no-value__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__object-no-value__strip" end time: Apr 20 08:03 China Standard Time
+"invalid__object-no-value__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+151/202 Testing: invalid__object-unterminated-value
+151/202 Test: invalid__object-unterminated-value
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/object-unterminated-value"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__object-unterminated-value" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__object-unterminated-value" end time: Apr 20 08:03 China Standard Time
+"invalid__object-unterminated-value" time elapsed: 00:00:00
+----------------------------------------------------------
+
+152/202 Testing: invalid__object-unterminated-value__strip
+152/202 Test: invalid__object-unterminated-value__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/object-unterminated-value"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__object-unterminated-value__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__object-unterminated-value__strip" end time: Apr 20 08:03 China Standard Time
+"invalid__object-unterminated-value__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+153/202 Testing: invalid__real-garbage-after-e
+153/202 Test: invalid__real-garbage-after-e
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/real-garbage-after-e"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__real-garbage-after-e" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__real-garbage-after-e" end time: Apr 20 08:03 China Standard Time
+"invalid__real-garbage-after-e" time elapsed: 00:00:00
+----------------------------------------------------------
+
+154/202 Testing: invalid__real-garbage-after-e__strip
+154/202 Test: invalid__real-garbage-after-e__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/real-garbage-after-e"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__real-garbage-after-e__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__real-garbage-after-e__strip" end time: Apr 20 08:03 China Standard Time
+"invalid__real-garbage-after-e__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+155/202 Testing: invalid__real-negative-overflow
+155/202 Test: invalid__real-negative-overflow
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/real-negative-overflow"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__real-negative-overflow" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__real-negative-overflow" end time: Apr 20 08:03 China Standard Time
+"invalid__real-negative-overflow" time elapsed: 00:00:00
+----------------------------------------------------------
+
+156/202 Testing: invalid__real-negative-overflow__strip
+156/202 Test: invalid__real-negative-overflow__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/real-negative-overflow"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__real-negative-overflow__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__real-negative-overflow__strip" end time: Apr 20 08:03 China Standard Time
+"invalid__real-negative-overflow__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+157/202 Testing: invalid__real-positive-overflow
+157/202 Test: invalid__real-positive-overflow
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/real-positive-overflow"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__real-positive-overflow" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__real-positive-overflow" end time: Apr 20 08:03 China Standard Time
+"invalid__real-positive-overflow" time elapsed: 00:00:00
+----------------------------------------------------------
+
+158/202 Testing: invalid__real-positive-overflow__strip
+158/202 Test: invalid__real-positive-overflow__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/real-positive-overflow"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__real-positive-overflow__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__real-positive-overflow__strip" end time: Apr 20 08:03 China Standard Time
+"invalid__real-positive-overflow__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+159/202 Testing: invalid__real-truncated-at-e
+159/202 Test: invalid__real-truncated-at-e
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/real-truncated-at-e"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__real-truncated-at-e" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__real-truncated-at-e" end time: Apr 20 08:03 China Standard Time
+"invalid__real-truncated-at-e" time elapsed: 00:00:00
+----------------------------------------------------------
+
+160/202 Testing: invalid__real-truncated-at-e__strip
+160/202 Test: invalid__real-truncated-at-e__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/real-truncated-at-e"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__real-truncated-at-e__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__real-truncated-at-e__strip" end time: Apr 20 08:03 China Standard Time
+"invalid__real-truncated-at-e__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+161/202 Testing: invalid__real-truncated-at-point
+161/202 Test: invalid__real-truncated-at-point
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/real-truncated-at-point"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__real-truncated-at-point" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__real-truncated-at-point" end time: Apr 20 08:03 China Standard Time
+"invalid__real-truncated-at-point" time elapsed: 00:00:00
+----------------------------------------------------------
+
+162/202 Testing: invalid__real-truncated-at-point__strip
+162/202 Test: invalid__real-truncated-at-point__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/real-truncated-at-point"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__real-truncated-at-point__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__real-truncated-at-point__strip" end time: Apr 20 08:03 China Standard Time
+"invalid__real-truncated-at-point__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+163/202 Testing: invalid__tab-character-in-string
+163/202 Test: invalid__tab-character-in-string
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/tab-character-in-string"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__tab-character-in-string" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__tab-character-in-string" end time: Apr 20 08:03 China Standard Time
+"invalid__tab-character-in-string" time elapsed: 00:00:00
+----------------------------------------------------------
+
+164/202 Testing: invalid__tab-character-in-string__strip
+164/202 Test: invalid__tab-character-in-string__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/tab-character-in-string"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__tab-character-in-string__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__tab-character-in-string__strip" end time: Apr 20 08:03 China Standard Time
+"invalid__tab-character-in-string__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+165/202 Testing: invalid__too-big-negative-integer
+165/202 Test: invalid__too-big-negative-integer
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/too-big-negative-integer"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__too-big-negative-integer" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__too-big-negative-integer" end time: Apr 20 08:03 China Standard Time
+"invalid__too-big-negative-integer" time elapsed: 00:00:00
+----------------------------------------------------------
+
+166/202 Testing: invalid__too-big-negative-integer__strip
+166/202 Test: invalid__too-big-negative-integer__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/too-big-negative-integer"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__too-big-negative-integer__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__too-big-negative-integer__strip" end time: Apr 20 08:03 China Standard Time
+"invalid__too-big-negative-integer__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+167/202 Testing: invalid__too-big-positive-integer
+167/202 Test: invalid__too-big-positive-integer
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/too-big-positive-integer"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__too-big-positive-integer" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__too-big-positive-integer" end time: Apr 20 08:03 China Standard Time
+"invalid__too-big-positive-integer" time elapsed: 00:00:00
+----------------------------------------------------------
+
+168/202 Testing: invalid__too-big-positive-integer__strip
+168/202 Test: invalid__too-big-positive-integer__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/too-big-positive-integer"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__too-big-positive-integer__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__too-big-positive-integer__strip" end time: Apr 20 08:03 China Standard Time
+"invalid__too-big-positive-integer__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+169/202 Testing: invalid__truncated-unicode-surrogate
+169/202 Test: invalid__truncated-unicode-surrogate
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/truncated-unicode-surrogate"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__truncated-unicode-surrogate" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__truncated-unicode-surrogate" end time: Apr 20 08:03 China Standard Time
+"invalid__truncated-unicode-surrogate" time elapsed: 00:00:00
+----------------------------------------------------------
+
+170/202 Testing: invalid__truncated-unicode-surrogate__strip
+170/202 Test: invalid__truncated-unicode-surrogate__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/truncated-unicode-surrogate"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__truncated-unicode-surrogate__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__truncated-unicode-surrogate__strip" end time: Apr 20 08:03 China Standard Time
+"invalid__truncated-unicode-surrogate__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+171/202 Testing: invalid__unicode-identifier
+171/202 Test: invalid__unicode-identifier
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/unicode-identifier"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__unicode-identifier" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__unicode-identifier" end time: Apr 20 08:03 China Standard Time
+"invalid__unicode-identifier" time elapsed: 00:00:00
+----------------------------------------------------------
+
+172/202 Testing: invalid__unicode-identifier__strip
+172/202 Test: invalid__unicode-identifier__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/unicode-identifier"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__unicode-identifier__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__unicode-identifier__strip" end time: Apr 20 08:03 China Standard Time
+"invalid__unicode-identifier__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+173/202 Testing: invalid__unterminated-array
+173/202 Test: invalid__unterminated-array
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/unterminated-array"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__unterminated-array" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__unterminated-array" end time: Apr 20 08:03 China Standard Time
+"invalid__unterminated-array" time elapsed: 00:00:00
+----------------------------------------------------------
+
+174/202 Testing: invalid__unterminated-array__strip
+174/202 Test: invalid__unterminated-array__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/unterminated-array"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__unterminated-array__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__unterminated-array__strip" end time: Apr 20 08:03 China Standard Time
+"invalid__unterminated-array__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+175/202 Testing: invalid__unterminated-array-and-object
+175/202 Test: invalid__unterminated-array-and-object
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/unterminated-array-and-object"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__unterminated-array-and-object" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__unterminated-array-and-object" end time: Apr 20 08:03 China Standard Time
+"invalid__unterminated-array-and-object" time elapsed: 00:00:00
+----------------------------------------------------------
+
+176/202 Testing: invalid__unterminated-array-and-object__strip
+176/202 Test: invalid__unterminated-array-and-object__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/unterminated-array-and-object"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__unterminated-array-and-object__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__unterminated-array-and-object__strip" end time: Apr 20 08:03 China Standard Time
+"invalid__unterminated-array-and-object__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+177/202 Testing: invalid__unterminated-empty-key
+177/202 Test: invalid__unterminated-empty-key
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/unterminated-empty-key"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__unterminated-empty-key" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__unterminated-empty-key" end time: Apr 20 08:03 China Standard Time
+"invalid__unterminated-empty-key" time elapsed: 00:00:00
+----------------------------------------------------------
+
+178/202 Testing: invalid__unterminated-empty-key__strip
+178/202 Test: invalid__unterminated-empty-key__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/unterminated-empty-key"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__unterminated-empty-key__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__unterminated-empty-key__strip" end time: Apr 20 08:03 China Standard Time
+"invalid__unterminated-empty-key__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+179/202 Testing: invalid__unterminated-key
+179/202 Test: invalid__unterminated-key
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/unterminated-key"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__unterminated-key" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__unterminated-key" end time: Apr 20 08:03 China Standard Time
+"invalid__unterminated-key" time elapsed: 00:00:00
+----------------------------------------------------------
+
+180/202 Testing: invalid__unterminated-key__strip
+180/202 Test: invalid__unterminated-key__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/unterminated-key"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__unterminated-key__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__unterminated-key__strip" end time: Apr 20 08:03 China Standard Time
+"invalid__unterminated-key__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+181/202 Testing: invalid__unterminated-object-and-array
+181/202 Test: invalid__unterminated-object-and-array
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/unterminated-object-and-array"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__unterminated-object-and-array" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__unterminated-object-and-array" end time: Apr 20 08:03 China Standard Time
+"invalid__unterminated-object-and-array" time elapsed: 00:00:00
+----------------------------------------------------------
+
+182/202 Testing: invalid__unterminated-object-and-array__strip
+182/202 Test: invalid__unterminated-object-and-array__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/unterminated-object-and-array"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__unterminated-object-and-array__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__unterminated-object-and-array__strip" end time: Apr 20 08:03 China Standard Time
+"invalid__unterminated-object-and-array__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+183/202 Testing: invalid__unterminated-string
+183/202 Test: invalid__unterminated-string
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/unterminated-string"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__unterminated-string" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__unterminated-string" end time: Apr 20 08:03 China Standard Time
+"invalid__unterminated-string" time elapsed: 00:00:00
+----------------------------------------------------------
+
+184/202 Testing: invalid__unterminated-string__strip
+184/202 Test: invalid__unterminated-string__strip
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "--strip" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid/unterminated-string"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid__unterminated-string__strip" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid__unterminated-string__strip" end time: Apr 20 08:03 China Standard Time
+"invalid__unterminated-string__strip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+185/202 Testing: invalid-unicode__encoded-surrogate-half
+185/202 Test: invalid-unicode__encoded-surrogate-half
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid-unicode/encoded-surrogate-half"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid-unicode__encoded-surrogate-half" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid-unicode__encoded-surrogate-half" end time: Apr 20 08:03 China Standard Time
+"invalid-unicode__encoded-surrogate-half" time elapsed: 00:00:00
+----------------------------------------------------------
+
+186/202 Testing: invalid-unicode__invalid-utf-8-after-backslash
+186/202 Test: invalid-unicode__invalid-utf-8-after-backslash
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid-unicode/invalid-utf-8-after-backslash"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid-unicode__invalid-utf-8-after-backslash" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid-unicode__invalid-utf-8-after-backslash" end time: Apr 20 08:03 China Standard Time
+"invalid-unicode__invalid-utf-8-after-backslash" time elapsed: 00:00:00
+----------------------------------------------------------
+
+187/202 Testing: invalid-unicode__invalid-utf-8-in-array
+187/202 Test: invalid-unicode__invalid-utf-8-in-array
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid-unicode/invalid-utf-8-in-array"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid-unicode__invalid-utf-8-in-array" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid-unicode__invalid-utf-8-in-array" end time: Apr 20 08:03 China Standard Time
+"invalid-unicode__invalid-utf-8-in-array" time elapsed: 00:00:00
+----------------------------------------------------------
+
+188/202 Testing: invalid-unicode__invalid-utf-8-in-bigger-int
+188/202 Test: invalid-unicode__invalid-utf-8-in-bigger-int
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid-unicode/invalid-utf-8-in-bigger-int"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid-unicode__invalid-utf-8-in-bigger-int" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid-unicode__invalid-utf-8-in-bigger-int" end time: Apr 20 08:03 China Standard Time
+"invalid-unicode__invalid-utf-8-in-bigger-int" time elapsed: 00:00:00
+----------------------------------------------------------
+
+189/202 Testing: invalid-unicode__invalid-utf-8-in-escape
+189/202 Test: invalid-unicode__invalid-utf-8-in-escape
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid-unicode/invalid-utf-8-in-escape"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid-unicode__invalid-utf-8-in-escape" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid-unicode__invalid-utf-8-in-escape" end time: Apr 20 08:03 China Standard Time
+"invalid-unicode__invalid-utf-8-in-escape" time elapsed: 00:00:00
+----------------------------------------------------------
+
+190/202 Testing: invalid-unicode__invalid-utf-8-in-exponent
+190/202 Test: invalid-unicode__invalid-utf-8-in-exponent
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid-unicode/invalid-utf-8-in-exponent"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid-unicode__invalid-utf-8-in-exponent" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"invalid-unicode__invalid-utf-8-in-exponent" end time: Apr 20 08:03 China Standard Time
+"invalid-unicode__invalid-utf-8-in-exponent" time elapsed: 00:00:00
+----------------------------------------------------------
+
+191/202 Testing: invalid-unicode__invalid-utf-8-in-identifier
+191/202 Test: invalid-unicode__invalid-utf-8-in-identifier
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid-unicode/invalid-utf-8-in-identifier"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid-unicode__invalid-utf-8-in-identifier" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid-unicode__invalid-utf-8-in-identifier" end time: Apr 20 08:03 China Standard Time
+"invalid-unicode__invalid-utf-8-in-identifier" time elapsed: 00:00:00
+----------------------------------------------------------
+
+192/202 Testing: invalid-unicode__invalid-utf-8-in-int
+192/202 Test: invalid-unicode__invalid-utf-8-in-int
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid-unicode/invalid-utf-8-in-int"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid-unicode__invalid-utf-8-in-int" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid-unicode__invalid-utf-8-in-int" end time: Apr 20 08:03 China Standard Time
+"invalid-unicode__invalid-utf-8-in-int" time elapsed: 00:00:00
+----------------------------------------------------------
+
+193/202 Testing: invalid-unicode__invalid-utf-8-in-real-after-e
+193/202 Test: invalid-unicode__invalid-utf-8-in-real-after-e
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid-unicode/invalid-utf-8-in-real-after-e"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid-unicode__invalid-utf-8-in-real-after-e" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid-unicode__invalid-utf-8-in-real-after-e" end time: Apr 20 08:03 China Standard Time
+"invalid-unicode__invalid-utf-8-in-real-after-e" time elapsed: 00:00:00
+----------------------------------------------------------
+
+194/202 Testing: invalid-unicode__invalid-utf-8-in-string
+194/202 Test: invalid-unicode__invalid-utf-8-in-string
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid-unicode/invalid-utf-8-in-string"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid-unicode__invalid-utf-8-in-string" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid-unicode__invalid-utf-8-in-string" end time: Apr 20 08:03 China Standard Time
+"invalid-unicode__invalid-utf-8-in-string" time elapsed: 00:00:00
+----------------------------------------------------------
+
+195/202 Testing: invalid-unicode__lone-invalid-utf-8
+195/202 Test: invalid-unicode__lone-invalid-utf-8
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid-unicode/lone-invalid-utf-8"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid-unicode__lone-invalid-utf-8" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid-unicode__lone-invalid-utf-8" end time: Apr 20 08:03 China Standard Time
+"invalid-unicode__lone-invalid-utf-8" time elapsed: 00:00:00
+----------------------------------------------------------
+
+196/202 Testing: invalid-unicode__lone-utf-8-continuation-byte
+196/202 Test: invalid-unicode__lone-utf-8-continuation-byte
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid-unicode/lone-utf-8-continuation-byte"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid-unicode__lone-utf-8-continuation-byte" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid-unicode__lone-utf-8-continuation-byte" end time: Apr 20 08:03 China Standard Time
+"invalid-unicode__lone-utf-8-continuation-byte" time elapsed: 00:00:00
+----------------------------------------------------------
+
+197/202 Testing: invalid-unicode__not-in-unicode-range
+197/202 Test: invalid-unicode__not-in-unicode-range
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid-unicode/not-in-unicode-range"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid-unicode__not-in-unicode-range" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid-unicode__not-in-unicode-range" end time: Apr 20 08:03 China Standard Time
+"invalid-unicode__not-in-unicode-range" time elapsed: 00:00:00
+----------------------------------------------------------
+
+198/202 Testing: invalid-unicode__overlong-3-byte-encoding
+198/202 Test: invalid-unicode__overlong-3-byte-encoding
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid-unicode/overlong-3-byte-encoding"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid-unicode__overlong-3-byte-encoding" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid-unicode__overlong-3-byte-encoding" end time: Apr 20 08:03 China Standard Time
+"invalid-unicode__overlong-3-byte-encoding" time elapsed: 00:00:00
+----------------------------------------------------------
+
+199/202 Testing: invalid-unicode__overlong-4-byte-encoding
+199/202 Test: invalid-unicode__overlong-4-byte-encoding
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid-unicode/overlong-4-byte-encoding"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid-unicode__overlong-4-byte-encoding" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"invalid-unicode__overlong-4-byte-encoding" end time: Apr 20 08:03 China Standard Time
+"invalid-unicode__overlong-4-byte-encoding" time elapsed: 00:00:00
+----------------------------------------------------------
+
+200/202 Testing: invalid-unicode__overlong-ascii-encoding
+200/202 Test: invalid-unicode__overlong-ascii-encoding
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid-unicode/overlong-ascii-encoding"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid-unicode__overlong-ascii-encoding" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"invalid-unicode__overlong-ascii-encoding" end time: Apr 20 08:03 China Standard Time
+"invalid-unicode__overlong-ascii-encoding" time elapsed: 00:00:00
+----------------------------------------------------------
+
+201/202 Testing: invalid-unicode__restricted-utf-8
+201/202 Test: invalid-unicode__restricted-utf-8
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid-unicode/restricted-utf-8"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid-unicode__restricted-utf-8" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid-unicode__restricted-utf-8" end time: Apr 20 08:03 China Standard Time
+"invalid-unicode__restricted-utf-8" time elapsed: 00:00:00
+----------------------------------------------------------
+
+202/202 Testing: invalid-unicode__truncated-utf-8
+202/202 Test: invalid-unicode__truncated-utf-8
+Command: "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/bin/Debug/json_process.exe" "C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/test/suites/invalid-unicode/truncated-utf-8"
+Directory: C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7
+"invalid-unicode__truncated-utf-8" start time: Apr 20 08:03 China Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"invalid-unicode__truncated-utf-8" end time: Apr 20 08:03 China Standard Time
+"invalid-unicode__truncated-utf-8" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Apr 20 08:03 China Standard Time

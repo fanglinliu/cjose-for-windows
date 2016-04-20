@@ -1,0 +1,15 @@
+﻿  Building Custom Rule C:/Users/fangl/OneDrive/Documents/Code/jansson-2.7/CMakeLists.txt
+  CMake does not need to re-run because C:\Users\fangl\OneDrive\Documents\Code\jansson-2.7\CMakeFiles\generate.stamp is up-to-date.
+  dump.c
+  error.c
+  hashtable.c
+  hashtable_seed.c
+  load.c
+  memory.c
+  pack_unpack.c
+  strbuffer.c
+  strconv.c
+  utf.c
+  value.c
+  Generating Code...
+  jansson.vcxproj -> C:\Users\fangl\OneDrive\Documents\Code\jansson-2.7\lib\Debug\jansson_d.lib

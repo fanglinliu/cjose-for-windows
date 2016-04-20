@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\fangl\OneDrive\Documents\Code\jansson-2.7\test\suites\api\test_unpack.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\fangl\OneDrive\Documents\Code\jansson-2.7\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{F9F42650-1B2C-31DF-8A28-AD4561C1EBA1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
