@@ -16,8 +16,8 @@ extern "C"
 {
 #endif
 
-
 /**
+
  * Temporarily disable compiler warnings, if possible (>=gcc-4.6).
  *
  * In some cases (particularly within macros), certain compiler warnings are
