@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Header Files\include-private">
+      <UniqueIdentifier>{46bc1d51-6c46-464f-8393-4da25e376ff1}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <Text Include="ReadMe.txt" />
@@ -22,6 +25,42 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\cjose-src\src\include\header_int.h">
+      <Filter>Header Files\include-private</Filter>
+    </ClInclude>
+    <ClInclude Include="..\cjose-src\src\include\jwe_int.h">
+      <Filter>Header Files\include-private</Filter>
+    </ClInclude>
+    <ClInclude Include="..\cjose-src\src\include\jwk_int.h">
+      <Filter>Header Files\include-private</Filter>
+    </ClInclude>
+    <ClInclude Include="..\cjose-src\src\include\jws_int.h">
+      <Filter>Header Files\include-private</Filter>
+    </ClInclude>
+    <ClInclude Include="..\cjose-src\include\cjose\base64.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\cjose-src\include\cjose\cjose.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\cjose-src\include\cjose\error.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\cjose-src\include\cjose\header.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\cjose-src\include\cjose\jwe.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\cjose-src\include\cjose\jwk.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\cjose-src\include\cjose\jws.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\cjose-src\include\cjose\version.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -35,5 +74,28 @@
     <ClCompile Include="dllmain.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\cjose-src\src\base64.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\cjose-src\src\error.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\cjose-src\src\header.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\cjose-src\src\jwe.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\cjose-src\src\jwk.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\cjose-src\src\jws.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\cjose-src\include\cjose\version.h.in">
+      <Filter>Header Files</Filter>
+    </None>
   </ItemGroup>
 </Project>
