@@ -82,7 +82,7 @@ bool cjose_jwk_release(cjose_jwk_t *jwk);
  *        information in the event of an error.
  * \returns the known key type
  */
-cjose_jwk_kty_t cjose_jwk_get_kty(const cjose_jwk_t *jwk, cjose_err *err);
+__declspec(dllexport) cjose_jwk_kty_t cjose_jwk_get_kty(const cjose_jwk_t *jwk, cjose_err *err);
 
 /**
  * Retrieves the key id for the given JWK object.  The string returned by

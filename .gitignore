@@ -12,3 +12,6 @@ ipch/
 /cjose.sdf
 cjose-for-windows.VC.opendb
 cjose-for-windows.sdf
+cjose-for-windows.VC.db
+*.opendb
+cjosedll/cjosedll.vcxproj.user

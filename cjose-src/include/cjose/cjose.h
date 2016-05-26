@@ -19,7 +19,7 @@
 #ifndef CJOSE_CJOSE_H
 #define CJOSE_CJOSE_H
 
-#include "version.h"
+//#include "version.h"
 #include "error.h"
 #include "base64.h"
 #include "header.h"

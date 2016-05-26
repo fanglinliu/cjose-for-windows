@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.24720.0
+VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cjosedll", "cjosedll\cjosedll.vcxproj", "{5EFC2F17-AFE3-42B7-BC84-489D611F5D6C}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cjose-static-library", "cjose-static-library\cjose.vcxproj", "{39EFA764-2AD0-42B3-AABF-4FC3FB852015}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.vcxproj", "{96779397-A7A4-4FBA-A4FA-FB672B97D4E0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,22 @@ Global
 		{39EFA764-2AD0-42B3-AABF-4FC3FB852015}.RelWithDebInfo|x64.Build.0 = Release|x64
 		{39EFA764-2AD0-42B3-AABF-4FC3FB852015}.RelWithDebInfo|x86.ActiveCfg = Release|Win32
 		{39EFA764-2AD0-42B3-AABF-4FC3FB852015}.RelWithDebInfo|x86.Build.0 = Release|Win32
+		{96779397-A7A4-4FBA-A4FA-FB672B97D4E0}.Debug|x64.ActiveCfg = Debug|x64
+		{96779397-A7A4-4FBA-A4FA-FB672B97D4E0}.Debug|x64.Build.0 = Debug|x64
+		{96779397-A7A4-4FBA-A4FA-FB672B97D4E0}.Debug|x86.ActiveCfg = Debug|Win32
+		{96779397-A7A4-4FBA-A4FA-FB672B97D4E0}.Debug|x86.Build.0 = Debug|Win32
+		{96779397-A7A4-4FBA-A4FA-FB672B97D4E0}.MinSizeRel|x64.ActiveCfg = Release|x64
+		{96779397-A7A4-4FBA-A4FA-FB672B97D4E0}.MinSizeRel|x64.Build.0 = Release|x64
+		{96779397-A7A4-4FBA-A4FA-FB672B97D4E0}.MinSizeRel|x86.ActiveCfg = Release|Win32
+		{96779397-A7A4-4FBA-A4FA-FB672B97D4E0}.MinSizeRel|x86.Build.0 = Release|Win32
+		{96779397-A7A4-4FBA-A4FA-FB672B97D4E0}.Release|x64.ActiveCfg = Release|x64
+		{96779397-A7A4-4FBA-A4FA-FB672B97D4E0}.Release|x64.Build.0 = Release|x64
+		{96779397-A7A4-4FBA-A4FA-FB672B97D4E0}.Release|x86.ActiveCfg = Release|Win32
+		{96779397-A7A4-4FBA-A4FA-FB672B97D4E0}.Release|x86.Build.0 = Release|Win32
+		{96779397-A7A4-4FBA-A4FA-FB672B97D4E0}.RelWithDebInfo|x64.ActiveCfg = Release|x64
+		{96779397-A7A4-4FBA-A4FA-FB672B97D4E0}.RelWithDebInfo|x64.Build.0 = Release|x64
+		{96779397-A7A4-4FBA-A4FA-FB672B97D4E0}.RelWithDebInfo|x86.ActiveCfg = Release|Win32
+		{96779397-A7A4-4FBA-A4FA-FB672B97D4E0}.RelWithDebInfo|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
