@@ -6,6 +6,7 @@
 
 #include "cjose/cjose.h"
 #include <string>
+#include "XmppCjose.h"
 
 using namespace std;
 
@@ -178,23 +179,55 @@ int main(int argc, char const *argv[])
 //			ifstream infile;
 //			infile.open("names.txt");
 //			infile >> name >> rent;
-	ifstream infile;
-	infile.open("C:\\Users\\fangl\\Downloads\\cjose-for-windows-master\\cjose-for-windows-master\\json_string.txt");
-	string AesKey = "";
-	infile >> AesKey;
-	string plaintext = "Hello world!";
+	//ifstream infile;
+	//infile.open("C:\\Users\\fangl\\Downloads\\cjose-for-windows-master\\cjose-for-windows-master\\json_string.txt");
+	//string AesKey = "";
+	//infile >> AesKey;
+	//string plaintext = "Hello world!";
 
-	// encrypt
-	string ciphertext = "";
-	ciphertext = ciphertextFromContent(plaintext, AesKey);
+	//// encrypt
+	//string ciphertext = "";
+	//ciphertext = ciphertextFromContent(plaintext, AesKey);
 
-	printf("%s\n", ciphertext.c_str());
+	//printf("%s\n", ciphertext.c_str());
 
-	// decrypt
-	string decryptContent = "";
-	decryptContent = contentFromCiphertext(ciphertext, AesKey);
+	//// decrypt
+	//string decryptContent = "";
+	//decryptContent = contentFromCiphertext(ciphertext, AesKey);
 
-	printf("%s\n", decryptContent.c_str());
+	//printf("%s\n", decryptContent.c_str());
+
+	string text = "Ya Peng";
+	string aesKey = "";
+	bool generated = false;
+	CXmppCjose * cjose = new CXmppCjose();
+	generated = cjose->GenerateBase64urlAESKey(aesKey);
+	if (generated)
+	{
+		printf("%s\n", aesKey.c_str());
+	}
+	else
+	{
+		printf("error\n");
+	}
+
+	//string ciphertext = "";
+	//ciphertext = ciphertextFromContent(text, aesKey);
+
+	//bool decrypted = false;
+	//string plaintext = "";
+	//decrypted = cjose->DecryptCiphertext(ciphertext, aesKey, plaintext);
+	//if (decrypted)
+	//{
+	//	printf("%s\n", plaintext.c_str());
+	//}
+	//else
+	//{
+	//	printf("error\n");
+	//}
+	
+
+
 
 	return 0;
 }

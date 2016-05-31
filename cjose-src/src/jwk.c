@@ -125,6 +125,27 @@ const char *cjose_jwk_get_kid(const cjose_jwk_t *jwk, cjose_err *err)
     return jwk->kid;
 }
 
+void *cjose_jwk_get_keydata(const cjose_jwk_t *jwk, cjose_err *err)
+{
+	if (!jwk)
+	{
+		CJOSE_ERROR(err, CJOSE_ERR_INVALID_ARG);
+		return NULL;
+	}
+
+	return jwk->keydata;
+};
+size_t cjose_jwk_get_keysize(const cjose_jwk_t *jwk, cjose_err *err)
+{
+	if (!jwk)
+	{
+		CJOSE_ERROR(err, CJOSE_ERR_INVALID_ARG);
+		return NULL;
+	}
+
+	return jwk->keysize;
+};
+
 bool cjose_jwk_set_kid(
         cjose_jwk_t *jwk, 
         const char *kid, 

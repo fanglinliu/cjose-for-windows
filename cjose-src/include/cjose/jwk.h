@@ -94,6 +94,8 @@ __declspec(dllexport) cjose_jwk_kty_t cjose_jwk_get_kty(const cjose_jwk_t *jwk, 
  * \returns the current kid, or NULL if not set.
  */
 const char *cjose_jwk_get_kid(const cjose_jwk_t *jwk, cjose_err *err);
+void *cjose_jwk_get_keydata(const cjose_jwk_t *jwk, cjose_err *err);
+size_t cjose_jwk_get_keysize(const cjose_jwk_t *jwk, cjose_err *err);
 
 /**
  * Sets a new value for the kid attribute of the JWK.  The string will be
